@@ -22,4 +22,4 @@ jobs:
 
       - name: Running openstreetmap-cgimap
         run: |
-           ./build/openstreetmap-cgimap --help"
+           ./build/openstreetmap-cgimap --help
